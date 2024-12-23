@@ -28,7 +28,7 @@ Once a slot is available, please let me know the date, time (with time zone), an
 
 Please note that the slot will only be officially booked once I have received the payment. If there is any delay in payment or if the slot is taken by someone else before payment is made, you will need to select a new available slot.
 
-### 3 Commitment:
+### 3. Commitment:
 We are dedicated to delivering exceptional service and giving our absolute best effort. However, we do not offer any guarantees or promises regarding specific results, as outcomes depend on various factors beyond our control.
 
 We kindly request you to thoroughly read all the details and clarify any questions you may have before making a booking.
