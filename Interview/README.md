@@ -112,8 +112,8 @@ Also Please open otter on mobile and put that infront of your screen otr some la
 ---
 
 ## Terms and Conditions:
-**No REFUNDS** OR **No Reschedule** in any of the below cases:
-- Once the interview is booked and payment is made, **NO REFUNDS**  will be issued.
+**No Refunds** OR **No Reschedule** in any of the below cases:
+- Once the interview is booked and payment is made, **NO Refunds**  will be issued.
 - If the interviewer does not attend or there are network issues during the interview from your side or interviwer side.
 - In case your interview ends early (e.g., after 30 minutes in and you booked 1-hour slot).
 - In case you got caught during the interview.
