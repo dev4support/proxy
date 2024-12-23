@@ -3,16 +3,16 @@
 ## Interview Pricing (USD): Fixed (Non-Negotiable)
 
 ### From 8 AM to 12 PM EST:
-- 30 min: $150
-- 60 min: $200
+- 0  - 30 min: $150
+- 30 - 60 min: $200
 
 ### From 12 PM to 4 PM EST:
-- 30 min: $200
-- 60 min: $250
+- 0  - 30 min: $200
+- 30 - 60 min: $250
 
 ### From 4 PM to 7 PM EST:
-- 30 min: $250
-- 60 min: $300
+- 0  - 30 min: $250
+- 30 - 60 min: $300
 
 ---
 
@@ -79,6 +79,9 @@ I will send you a document containing your introduction and project details 5 mi
 
 I will also provide an **Otter link** for backup transcription, but please note Otter is only 80-90% accurate. It’s best to focus on the voice and use Otter sparingly. For coding or screen sharing, close Otter on your laptop and keep it open on your mobile device.
 
+Also Please open otter on mobile and put that infront of your screen otr some latop or ipad whihc you can keep behind your laptop.
+
+
 ---
 
 ## Interview Etiquette:
@@ -86,28 +89,39 @@ I will also provide an **Otter link** for backup transcription, but please note 
 - Speak slowly and clearly, matching your pace with mine.
 - If the interviewer asks you to remove earphones, rely on Otter for transcription.
 - When screen sharing, share only the browser window, not your entire screen (unless specifically requested).
+- Make sure your camera is properly visible and you are sitting in good posture.
+- Do not use such intro or project on which you cannot answer any followup question regarding to business , techical things i can support.
+- Make your audio is clerly audiable to me as per given instructions.
+- Do not use external  monitors as they might be confusing.
+- Close all other unrealed apps which is not required.
+- Prefrebarly use chrome for your calls and alwats use app instead of browser. Test the app before call.
 
 ---
 
 ## Tips:
-- If you face any issues with Otter or audio, politely inform the interviewer and request to rejoin the call after resolving the issue.
-- I do not provide previous Otter links due to confidentiality, but you can practice with YouTube captions.
 
+- If you face any issues with Otter or audio, politely inform the interviewer and request to rejoin the call after resolving the issue with me , please do speak randomly.
+- If you think your interview might got extented so please book 30 min buffer time because last moment i won't be able to extend as i do have back to back calls.
+- Ensure you receive confirmation from the recruiter or vendor then only book the slot.
+- Minium booking time is 30 minutes.
+- If you anticipate needing extra time in interview or it might extend, I suggest booking an additional 30 minutes in advance.
+- Also please try to book your call for complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour 30 min charges would be extra.
+- Also even if interviwer is trying to extend the call then just give him a headsup before 5 min that you have another call to won't be abel to extend.
+- I do not provide previous Otter links due to confidentiality, but you can practice with YouTube captions.
+  
 ---
 
 ## Terms and Conditions:
-
+**No REFUNDS** OR **No Reschedule** in any of the below cases:
 - Once the interview is booked and payment is made, **NO REFUNDS**  will be issued.
-- If the interviewer does not attend or there are network issues during the interview, there will be **no refund**.
-- In case your interview ends early (e.g., after 30 minutes in a 1-hour slot), **NO REFUNDS**  will be given.
-- If you request to reschedule befoew 3 working days (excluding weekends and public holidays), I may be able to accommodate based on availability, but **NO REFUNDS** will be provided.
+- If the interviewer does not attend or there are network issues during the interview from your side or interviwer side.
+- In case your interview ends early (e.g., after 30 minutes in and you booked 1-hour slot).
+- In case you got caught during the interview.
+- Any Changes within 3 days of call or within 72 hours of call(excluding weekends and public holidays)
+- In Case of Rejection or Selection or No Results.
 
-For interviews that may extend, please inform the interviewer about your next scheduled call and request not to extend.  
-Ensure you receive confirmation from the recruiter or vendor before booking a slot.  
-If your interview is expected to last 45 minutes, please book a 1-hour slot.
-
-Also please start your call form complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour 30 min charges would be extra.  
-If you anticipate needing extra time, I suggest booking an additional 30 minutes in advance.
+# Reschedule 
+- If you request to reschedule before 3 working days(72 Hours before excluding weekends and public holidays) from your inetview date and time, I will be able to accommodate based on availability.
 
 ---
 
