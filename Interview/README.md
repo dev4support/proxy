@@ -126,7 +126,7 @@ Also Please open otter on mobile and put that infront of your screen otr some la
 - In Case of Rejection or Selection or No Results.
 
 # Reschedule 
-- If you request to reschedule before 3 working days(72 Hours before excluding weekends and public holidays) from your inetview date and time, I will be able to accommodate based on availability.
+- If you request to reschedule before 3 working days(72 Hours before excluding weekends and public holidays) from your inetview date and time, I will be able to accommodate based on availability.Only one time reschedule is allowed within this range.
 
 ---
 
