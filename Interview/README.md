@@ -2,15 +2,12 @@
 
 ## Interview Pricing (USD): Fixed (Non-Negotiable)
 
-### From 8 AM to 12 PM EST:
-- 0  - 30 min: $150
-- 30 - 60 min: $200
 
-### From 12 PM to 4 PM EST:
+### From 8 AM to 3 PM EST:
 - 0  - 30 min: $200
 - 30 - 60 min: $250
 
-### From 4 PM to 7 PM EST:
+### From 3 PM to 7 PM EST:
 - 0  - 30 min: $250
 - 30 - 60 min: $300
 
@@ -37,7 +34,7 @@ We kindly request you to thoroughly read all the details and clarify any questio
 
 ## After Booking:
 
-Please provide the following details:
+Please provide the following details on What's app:
 1. Gmail ID
 2. Job Description
 3. Interview Invitation Screenshot
@@ -82,9 +79,11 @@ I recommend using Windows over Mac for better compatibility. Please ensure Zoom 
 
 I will send you a document containing your introduction and project details 5 minutes before the interview to your Gmail. If you prefer, you may use your own version, but ensure it includes all relevant business terms and project details.
 
-I will also provide an **Otter link** for backup transcription, but please note Otter is only 80-90% accurate. It’s best to focus on the voice and use Otter sparingly. For coding or screen sharing, close Otter on your laptop and keep it open on your mobile device.
+I will also provide an **Otter link** for backup transcription before 5 min of the call, but please note Otter is only 80-90% accurate. It’s best to focus on the voice and use Otter sparingly. For coding or screen sharing, close Otter on your laptop and keep it open on your mobile device.
 
 Also Please open otter on mobile and put that infront of your screen otr some latop or ipad whihc you can keep behind your laptop.
+
+I will connect before 5 min or on time based on my previous call timing.
 
 
 ---
