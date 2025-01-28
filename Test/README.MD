@@ -5,8 +5,8 @@
 ### Pricing Breakdown:
 - **0 - 45 Minutes**: $80
 - **1 Hour**: $100
-- **1 to 1.5 Hours**: $125
-- **1.5 to 2 Hours**: $150
+- **1 to 1.5 Hours**: $150
+- **1.5 to 2 Hours**: $175
 - **2 to 3 Hours**: $200
 - **3 to 4 Hours**: $250
 
