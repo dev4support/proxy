@@ -3,11 +3,8 @@
 ## Interview Pricing (USD): Fixed (Non-Negotiable)
 
 
-### From 8 AM to 12 PM EST:
-- 0  - 30 min: $150
-- 30 - 60 min: $200
 
-### From 12 PM to 4 PM EST:
+### From 8 AM to 4 PM EST:
 - 0  - 30 min: $200
 - 30 - 60 min: $250
 
