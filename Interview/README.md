@@ -12,6 +12,9 @@
 - 0  - 30 min: $250
 - 30 - 60 min: $300
 
+# Loop Calls
+# SDE-1 - Flat 1100 for 9 to 1 PST
+# SDE-2 - Flat 1250 for 9 to 2 PST
 ---
 
 ## Interview Booking Process
