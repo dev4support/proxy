@@ -12,6 +12,9 @@
 
 ---
 
+#Amazon Test
+- ** Flat 200 per Test for all Sections.
+
 ## How to Book Assistance for Tests
 
 To receive assistance with any test, please follow these steps:
