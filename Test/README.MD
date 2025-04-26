@@ -1,4 +1,4 @@
-##Test Pricing
+## Test Pricing
 
 - **Test Price (USD)**: Based on test duration as per the test link.
 
@@ -12,8 +12,8 @@
 
 ---
 
-##Amazon Test
-- ** Flat 200 per Test for all Sections.
+## Amazon Test
+- **0 Flat 200 per Test for all Sections.
 
 ## How to Book Assistance for Tests
 
