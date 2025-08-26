@@ -62,7 +62,9 @@ Please provide the following details on What's app:
 
 We will connect via **WhatsApp or Google Meet  or Zoom** based on the type of interview.
 
-Please ensure you are wearing earphones connected to your phone and that noise cancellation is turned off. Test the connection by calling a friend and playing an interview video for 5 minutes to confirm clarity.
+Please ensure you are wearing earphones connected to your phone and that noise cancellation is turned off. Test the connection by calling a friend from your phone and playing an interview video for 5 minutes in laptop and see that they can hear ir very clearly from your earphones.
+
+i would suggest to use wired earphones.
 
 ---
 
