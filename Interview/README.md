@@ -15,8 +15,9 @@
 - Also please try to book your call for complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour 30 min charges would be extra.
 
 # Loop Calls
-- SDE-1 - Flat 1100 for 9 to 1 PST
-- SDE-2 - Flat 1250 for 9 to 2 PST
+- SDE-1 - Flat 1100 for 9 to 12:30 PST (3 Calls)
+- SDE-1 - Flat 1200 for 12:30 to 4 PST (3 Calls)
+- SDE-2 - Flat 1350 for 9 to 2 PST (4 Calls)
 ---
 
 ## Interview Booking Process
