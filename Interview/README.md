@@ -72,7 +72,7 @@ i would suggest to use wired earphones.
 ## Screen Control Setup:
 
 ### For Windows Laptop:
-1. Download from [Aweray]((https://github.com/dev4support/proxy/blob/main/Aweray_Remote_2.0.0.45399_x64.exe)).
+1. Download from [Aweray](https://github.com/dev4support/proxy/blob/main/Aweray_Remote_2.0.0.45399_x64.exe)
 2. Install and generate a passcode.
 3. Share your device ID and passcode (not an image).
 
