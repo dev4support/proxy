@@ -3,12 +3,11 @@
 ## Interview Pricing (USD): Fixed (Non-Negotiable)
 
 
-
-### From 8 AM to 4 PM EST:
+### From 8 AM to 2 PM EST:
 - 0  - 30 min: $200
 - 30 - 60 min: $250
 
-### From 4 PM to 7 PM EST:
+### From 2 PM to 7 PM EST:
 - 0  - 30 min: $250
 - 30 - 60 min: $300
 
@@ -21,6 +20,8 @@
 ---
 
 ## Interview Booking Process
+
+If you have single  call try keep before 12 EST.
 
 ### 1. Availability Check:
 Please begin by checking my availability in my calendar. To gain access, click on the [link](https://calendar.google.com/calendar/u/0?cid=bmlybWFscmVud2FsQGdtYWlsLmNvbQ) to request access or provide your Gmail ID. Once I grant you access, you can add my calendar to yours, and it will display in your time zone.
