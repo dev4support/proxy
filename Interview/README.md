@@ -79,9 +79,17 @@ i would suggest to use wired earphones.
 3. Share your device ID and passcode (not an image).
 
 ### For Mac Laptop:
-1. Download Chrome Remote Desktop.
-2. Set up 'Remote Access' and pin (123456).
-3. Share your email ID and password for remote access.
+Steps to Set Up Getscreen.me
+
+1️⃣ Go: https://getscreen.me/en/
+
+2️⃣ Tap Sign Up → enter your name & email.
+3️⃣ Check your email → you’ll receive a password.
+4️⃣ Log in with that password.
+5️⃣ Tap Add Device → choose OS (Windows / macOS / Linux).
+6️⃣ Download & install the client.
+7️⃣ After install in the app , in permanent access tab give your email id and grant access then device will appear in your account. 
+8️⃣ share email and password for getscreen acccount.
 
 ### Recommendation:
 I recommend using Windows over Mac for better compatibility. Please ensure Zoom is installed on both your laptop and phone.
