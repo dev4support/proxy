@@ -84,11 +84,17 @@ Steps to Set Up Getscreen.me
 1️⃣ Go: https://getscreen.me/en/
 
 2️⃣ Tap Sign Up → enter your name & email.
+
 3️⃣ Check your email → you’ll receive a password.
+
 4️⃣ Log in with that password.
+
 5️⃣ Tap Add Device → choose OS (Windows / macOS / Linux).
+
 6️⃣ Download & install the client.
-7️⃣ After install in the app , in permanent access tab give your email id and grant access then device will appear in your account. 
+
+7️⃣ After install in the app , in permanent access tab give your email id and grant access then device will appear in your account.
+
 8️⃣ share email and password for getscreen acccount.
 
 ### Recommendation:
