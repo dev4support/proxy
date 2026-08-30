@@ -14,16 +14,17 @@
 - Also please try to book your call for complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour 30 min charges would be extra.
 
 # Loop Calls
-- SDE-1 - Flat 1100 for 9 to 12:30 PST (3 Calls)
-- SDE-1 - Flat 1200 for 12:30 to 4 PST (3 Calls)
-- SDE-2 - Flat 1350 for 9 to 2 PST (4 Calls)
+-  Flat 1100 for 9 to 12:30 PST (3 Calls)
+-  Flat 1200 for 12:30 to 4 PST (3 Calls)
+-  Flat 1350 for 9 to 2 PST (4 Calls)
 ---
 
 ## Interview Booking Process
 
-If you have single  call try keep before 12 EST.
+If you have single  call try keep before 12 PM EST.
 
 ### 1. Availability Check:
+# [Calendar Link](https://calendar.google.com/calendar/u/0?cid=bmlybWFscmVud2FsQGdtYWlsLmNvbQ)
 Please begin by checking my availability in my calendar. To gain access, click on the [link](https://calendar.google.com/calendar/u/0?cid=bmlybWFscmVud2FsQGdtYWlsLmNvbQ) to request access or provide your Gmail ID. Once I grant you access, you can add my calendar to yours, and it will display in your time zone.
 
 If there are no available slots, I can refer you to one of my colleagues who best suits your requirements.
