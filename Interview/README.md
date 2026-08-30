@@ -81,10 +81,10 @@ You need to download 3 Software:
    2. GetScreen
    3. Chrome Remote Desktop
 
-# MAC
-   1.GetScreen
-   2.Chrome Remote Desktop
-   3.Awery New (Pink)
+# MAC  (All steps are given below)
+   1. GetScreen
+   2. Chrome Remote Desktop
+   3. Awery New (Pink)
 
 
 ### Awery OLD (Orange):
