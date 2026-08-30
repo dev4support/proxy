@@ -25,7 +25,7 @@ If you have single  call try keep before 12 PM EST.
 
 ### 1. Availability Check:
 # [Calendar Link](https://calendar.google.com/calendar/u/0?cid=bmlybWFscmVud2FsQGdtYWlsLmNvbQ)
-Please begin by checking my availability in my calendar. To gain access, click on the [link](https://calendar.google.com/calendar/u/0?cid=bmlybWFscmVud2FsQGdtYWlsLmNvbQ) to request access or provide your Gmail ID. Once I grant you access, you can add my calendar to yours, and it will display in your time zone.
+Please begin by checking my availability in my calendar. To gain access, click on the [link](https://calendar.google.com/calendar/u/0?cid=bmlybWFscmVud2FsQGdtYWlsLmNvbQ) on your laptop , not on mobile to request access or provide your Gmail ID for access. Once I grant you access, you can add my calendar to yours, and it will display in your time zone.
 
 If there are no available slots, I can refer you to one of my colleagues who best suits your requirements.
 
@@ -54,7 +54,7 @@ Please provide the following details on What's app:
 
 ## What I Provide for the Interview:
 - Otter transcription service
-- Voice-over during the call
+- Voice-over during the call through ear phones
 - Coding support (via screen control)
 - Behavioral, Technical, and System Design questions
 - Introduction guidance
@@ -63,24 +63,51 @@ Please provide the following details on What's app:
 
 ## Interview Process:
 
-We will connect via **WhatsApp or Google Meet  or Zoom** based on the type of interview.
+We will connect via **Google Meet** from your phone, So install google meet app in your phone.
 
-Please ensure you are wearing earphones connected to your phone and that noise cancellation is turned off. Test the connection by calling a friend from your phone and playing an interview video for 5 minutes in laptop and see that they can hear ir very clearly from your earphones.
-
+Please ensure you are wearing earphones connected to your phone and that noise cancellation is turned off , Avoid using Airpods.
+I will hear sound from your earphones which is connected with your phone.
+Test the connection by calling a friend from your phone and playing an interview video for 5 minutes in laptop and see that they can hear it very clearly from your earphones which is connected to your phone.
 i would suggest to use wired earphones.
 
 ---
 
 ## Screen Control Setup:
 
-### For Windows Laptop:
-1. Download from [Aweray](https://github.com/dev4support/proxy/blob/main/Aweray_Remote_2.0.0.45399_x64.exe)  
-   🔁 **Backup URL:** [https://awesun.aweray.com/en/olddown/windows](https://awesun.aweray.com/en/olddown/windows)
-2. Install and generate a passcode.
-3. Share your device ID and passcode (not an image).
+You need to download 3 Software:
 
-### For Mac Laptop:
-Steps to Set Up Getscreen.me
+# Windows (All steps are given below)
+   1. Awery OLD (Orange)
+   2. GetScreen
+   3. Chrome Remote Desktop
+
+# MAC
+   1.GetScreen
+   2.Chrome Remote Desktop
+   3.Awery New (Pink)
+
+
+### Awery OLD (Orange):
+1. Download from this link [Aweray Link]([https://drive.google.com/uc?export=download&id=1ogmYDlvqR6yRFjXxn5bMyPazObLNYceQ])  
+   🔁 **Backup URL:** [https://awesun.aweray.com/en/olddown/windows](https://awesun.aweray.com/en/olddown/windows)
+   Make sure you download Orange icon one only not the pink one
+2. After install you should be able to see device id , if it is not showing restart the laptop and open app again.
+3. generate a passcode , it is below your device id their is smily icon after the passcode, click it will generate it.
+4. Share your device ID and passcode by doing copy paste and also send me picture of that.
+5. Also you need to Register and login into this.
+
+### Awery New (Pink):
+1. Download from this link [Aweray Link]([[https://github.com/dev4support/proxy/blob/main/Aweray_Remote_2.0.0.45399_x64.exe]
+   🔁 **Backup URL:** [https://awesun.aweray.com/en/olddown/windows](https://awesun.aweray.com/en/olddown/windows)
+   Make sure you download Orange icon one only not the pink one
+2. After install you should be able to see device id , if it is not showing restart the laptop and open app again.
+3. Make sure you give all permission whatever it is asking.
+4. generate a long term passcode , it is near your device id their is smily icon after the passcode, click it will generate it.
+5. Share your device ID and passcode by doing copy paste and also send me picture of that.
+6. Also you need to Register and login into this.
+
+### Getscreen.me:
+Steps to Set Up 
 
 1️⃣ Go: https://getscreen.me/en/
 
@@ -96,18 +123,44 @@ Steps to Set Up Getscreen.me
 
 7️⃣ After install in the app , in permanent access tab give your email id and grant access then device will appear in your account.
 
-8️⃣ share email and password for getscreen acccount.
+8️⃣ share email and password for getscreen acccount which you received in email.
+
+### Chrome Remote Desktop:
+
+Chrome Remote Desktop (CRD)
+
+1️⃣ Open:
+https://remotedesktop.google.com/access
+
+2️⃣ Sign in with the Google account that will be used for remote access.
+
+3️⃣ Under Set up remote access , left hand side option, click Download.
+
+4️⃣ Install Chrome Remote Desktop.
+
+5️⃣ Give the computer any name, for example:
+
+6️⃣ When asked to create a PIN, set: 123456
+
+7️⃣ Complete the setup and make sure the computer shows as Online.
+
+8️⃣ Share:
+Google email ID and password used for CRD
+CRD PIN: 123456
+
 
 ### Recommendation:
 I recommend using Windows over Mac for better compatibility. Please ensure Zoom is installed on both your laptop and phone.
 
 ---
 
-I will send you a document containing your introduction and project details 5 minutes before the interview to your Gmail. If you prefer, you may use your own version, but ensure it includes all relevant business terms and project details.
+I will send you introduction and meeting link before 1 day of your interview on what's app. If you prefer, you may use your own version.
 
-I will also provide an **Otter link** for backup transcription before 5 min of the call, but please note Otter is only 80-90% accurate. It’s best to focus on the voice and use Otter sparingly. For coding or screen sharing, close Otter on your laptop and keep it open on your mobile device.
+I will also provide an **Otter link** for backup transcription when we join the call, but please note Otter is only 80-90% accurate. It’s best to focus on the voice and use Otter sparingly. 
+For coding or screen sharing round , close Otter on your laptop and keep it open on your mobile device.
+Also i would suggest to you use only one laptop rather then multiple desktops.
 
-Also Please open otter on mobile and put that infront of your screen otr some latop or ipad whihc you can keep behind your laptop.
+Also Please open otter on mobile and put that in front of your screen or in  some laptop or ipad which you can keep behind your laptop.
 
 I will connect before 5 min or on time based on my previous call timing.
 
@@ -121,10 +174,10 @@ I will connect before 5 min or on time based on my previous call timing.
 - When screen sharing, share only the browser window, not your entire screen (unless specifically requested).
 - Make sure your camera is properly visible and you are sitting in good posture.
 - Do not use such intro or project on which you cannot answer any followup question regarding to business , techical things i can support.
-- Make your audio is clerly audiable to me as per given instructions.
+- Make your audio is clearly audible to me as per given instructions.
 - Do not use external  monitors as they might be confusing.
-- Close all other unrealed apps which is not required.
-- Prefrebarly use chrome for your calls and alwats use app instead of browser. Test the app before call.
+- Close all other unrelated apps which is not required.
+- Preferably use chrome for your calls and alwaya use app instead of browser. Test the app before call.
 
 ---
 
