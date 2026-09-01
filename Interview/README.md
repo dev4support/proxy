@@ -74,7 +74,7 @@ i would suggest to use wired earphones.
 
 ## Screen Control Setup:
 
-You need to download 3 Software:
+You need to download 3 Software: (Why 3 is because if something is not working we have backups)
 
 # Windows (All steps are given below)
    1. Awery OLD (Orange)
