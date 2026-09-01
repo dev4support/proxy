@@ -121,7 +121,7 @@ Steps to Set Up
 
 7️⃣ After install in the app , in permanent access tab give your email id and grant access then device will appear in your account.
 
-8️⃣ share email and password for getscreen acccount which you received in email.
+8️⃣ share email and password for getscreen acccount which you received in email from geetscreen.
 
 ### Chrome Remote Desktop:
 
@@ -143,7 +143,7 @@ https://remotedesktop.google.com/access
 7️⃣ Complete the setup and make sure the computer shows as Online.
 
 8️⃣ Share:
-Google email ID and password used for CRD
+Google email ID and gmail password used for CRD
 CRD PIN: 123456
 
 
