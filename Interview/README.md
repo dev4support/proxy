@@ -97,9 +97,7 @@ You need to download 3 Software:
 5. Also you need to Register and login into this.
 
 ### Awery New (Pink):
-1. Download from this link [Aweray Link]([[https://github.com/dev4support/proxy/blob/main/Aweray_Remote_2.0.0.45399_x64.exe]
-   🔁 **Backup URL:** [https://awesun.aweray.com/en/olddown/windows](https://awesun.aweray.com/en/olddown/windows)
-   Make sure you download Orange icon one only not the pink one
+1. Download from this link [Aweray Link]([https://github.com/dev4support/proxy/blob/main/Aweray_Remote_2.0.0.45399_x64.exe])
 2. After install you should be able to see device id , if it is not showing restart the laptop and open app again.
 3. Make sure you give all permission whatever it is asking.
 4. generate a long term passcode , it is near your device id their is smily icon after the passcode, click it will generate it.
