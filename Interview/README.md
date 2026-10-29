@@ -2,7 +2,7 @@
 
 ## Interview Pricing (USD): Fixed (Non-Negotiable)
 
-- 0  - 30 min: $250
+- 0  - 30 min: $200
 - 30 - 60 min: $300
 
 - Also please try to book your call for complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour $150 charges would be extra.
