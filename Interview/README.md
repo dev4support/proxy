@@ -2,16 +2,10 @@
 
 ## Interview Pricing (USD): Fixed (Non-Negotiable)
 
-
-### From 8 AM to 2 PM EST:
-- 0  - 30 min: $200
-- 30 - 60 min: $250
-
-### From 2 PM to 7 PM EST:
 - 0  - 30 min: $250
 - 30 - 60 min: $300
 
-- Also please try to book your call for complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour 30 min charges would be extra.
+- Also please try to book your call for complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour $150 charges would be extra.
 
 # Loop Calls
 -  Flat 1100 for 9 to 12:30 PST (3 Calls)
@@ -193,6 +187,7 @@ I will connect before 5 min or on time based on my previous call timing.
 ---
 
 ## Terms and Conditions:
+**No Refunds** in any case once payment is made.
 **No Refunds** And **No Reschedule** in any of the below cases:
 - Once the interview is booked and payment is made.
 - If the interviewer does not attend or there are network issues during the interview from your side or interviwer side.
