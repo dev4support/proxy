@@ -8,9 +8,9 @@
 - Also please try to book your call for complete hour means like 9,10,11,12 rather then 9:30 , 10:30 . In case of non complete hour $150 charges would be extra.
 
 # Loop Calls
--  Flat 1100 for 9 to 12:30 PST (3 Calls)
--  Flat 1200 for 12:30 to 4 PST (3 Calls)
+-  Flat 1200 for 9 to 12 or 12 to 3 PST (3 Calls)
 -  Flat 1350 for 9 to 2 PST (4 Calls)
+-  Flat 1600 for 9 to 3 PST (5 Calls)
 ---
 
 ## Interview Booking Process
