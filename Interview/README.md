@@ -99,7 +99,7 @@ You need to download 3 Software: (Why 3 is because if something is not working w
 6. Also you need to Register and login into this.
 
 ### Getscreen.me:
-Steps to Set Up 
+Steps to Set Up  (do not use personal email use temp email to create account https://temp-mail.org/en/)
 
 1️⃣ Go: https://getscreen.me/en/
 
